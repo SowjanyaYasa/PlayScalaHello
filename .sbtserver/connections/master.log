@@ -1,0 +1,7 @@
+New log file opened at Mon Nov 27 11:37:07 MST 2017 by 35223@i32290-is7
+Taking next connection to: 52450
+New client attempting to connect on port: 52451-52450
+  Address = /172.25.17.58:52450
+This client on port 52451 has uuid 1186c1fd-8c12-4d02-aa78-525fec1cf6d3 configName play-fork-run humanReadableName Play Fork Run protocolVersion 1 featureTags Vector()
+Connected Clients: play-fork-run-1186c1fd-8c12-4d02-aa78-525fec1cf6d3
+Taking next connection to: 52450
